@@ -5,7 +5,7 @@ Advanced password strength assessment tool with real-time validation against key
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20macOS-lightgrey.svg)](https://github.com/Soft-web-Secure/pass-strength-analyzer/blob/main/PassLevel.exe)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20-lightgrey.svg)](https://github.com/Soft-web-Secure/pass-strength-analyzer/blob/main/PassLevel.exe)
 
 > Offline password strength assessment tool with real-world attack vector simulation
 
