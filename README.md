@@ -13,7 +13,7 @@ Advanced password strength assessment tool with real-time validation against key
 
 **Password Security Analyzer** evaluates password strength using professional security criteria, including detection of:
 
-- ⌨️ **Keyboard walking patterns** (`qweasdzxc`, `poi;lk.,m`, `qazwsxedc`)
+- ⌨️ **Keyboard walking patterns** (`qwerty`, `poi;lk.,m`, `qazwsxedc`)
 - 📅 **Date patterns** (birthdays, years, DDMMYYYY)
 - 🔁 **Repetitive sequences** (`aaaaaa`, `123123123`)
 - 📈 **Alphabetical/numerical sequences** (`abcdefg`, `123456789`)
